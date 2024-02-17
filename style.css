@@ -1,0 +1,65 @@
+.navbar{
+    background-color: rgb(255, 255, 255) !important;
+    height: 90px;
+}
+.nav-item{
+    font-weight: bolder;
+}
+.material-symbols-outlined{
+    color:    #FFB30E;
+}
+.buttons>button{
+    border: none;
+   
+}
+.butty{
+    color: black;
+    font-weight: 500;
+    padding-left: 5px;
+    padding-top: 3px;
+}
+.butty2{ 
+       color: #FFB30E;
+    font-weight: 500;
+    padding-left: 5px;
+   }
+   .currentt{
+    font-weight: lighter !important;
+    padding-left: 7px ;
+   }
+   .maplogo{
+    padding: 0px 5px;
+    padding-bottom: 3px;
+   }
+   /* Secontpart */
+.secontpart{
+    background-color:#FFB30E;
+    
+    height: 500px;
+}
+.baseimg{
+   margin-top: 145px;
+   margin-left: 90px;
+}
+.areyou{
+    color: white;
+    font-weight: 700;
+    font-size: 65px;
+}
+.formm{
+    background-color: white;
+}
+
+
+
+
+   @media only screen and (max-width:990px){
+    .nav-item{
+        text-align: center;
+    }
+    .buttons{
+        display: flex;
+        justify-content: center;
+    }
+   }
+   
